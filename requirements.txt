@@ -1,0 +1,12 @@
+steppy-toolkit==0.1.5
+steppy==0.1.4
+attrdict==2.0.0
+category_encoders==1.2.6
+lightgbm==2.1.1
+numpy==1.22.0
+pandas==0.23.1
+scikit_learn==0.19.1
+pyyaml>=4.2b1
+xgboost==0.72.1
+catboost==0.9.1.1
+scikit-optimize==0.5.2
